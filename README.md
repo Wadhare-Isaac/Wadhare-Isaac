@@ -1,8 +1,8 @@
-# ✨ Wadhare Isaac
+# Wadhare Isaac
 
 **Aspiring Data Analyst | Actuarial Science Graduate | Data Science Student @ Moringa**
 
-Hi there 👋 I'm Wadhare Isaac — a data enthusiast passionate about transforming raw numbers into meaningful insights. I'm currently studying Data Science at Moringa School, where I’m sharpening my skills in Python, SQL, and Tableau.
+Hi there, I'm Wadhare Isaac — a data enthusiast passionate about transforming raw numbers into meaningful insights. I'm currently studying Data Science at Moringa School, where I’m sharpening my skills in Python, SQL, and Tableau.
 
 ---
 
